@@ -1,0 +1,14 @@
+C:\Users\pgrah\OneDrive\Desktop\ConsoleApp.HelloWorld\ConsoleApp.Additional\bin\Debug\net9.0\ConsoleApp.Additional.exe
+C:\Users\pgrah\OneDrive\Desktop\ConsoleApp.HelloWorld\ConsoleApp.Additional\bin\Debug\net9.0\ConsoleApp.Additional.deps.json
+C:\Users\pgrah\OneDrive\Desktop\ConsoleApp.HelloWorld\ConsoleApp.Additional\bin\Debug\net9.0\ConsoleApp.Additional.runtimeconfig.json
+C:\Users\pgrah\OneDrive\Desktop\ConsoleApp.HelloWorld\ConsoleApp.Additional\bin\Debug\net9.0\ConsoleApp.Additional.dll
+C:\Users\pgrah\OneDrive\Desktop\ConsoleApp.HelloWorld\ConsoleApp.Additional\bin\Debug\net9.0\ConsoleApp.Additional.pdb
+C:\Users\pgrah\OneDrive\Desktop\ConsoleApp.HelloWorld\ConsoleApp.Additional\obj\Debug\net9.0\ConsoleApp.Additional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgrah\OneDrive\Desktop\ConsoleApp.HelloWorld\ConsoleApp.Additional\obj\Debug\net9.0\ConsoleApp.Additional.AssemblyInfoInputs.cache
+C:\Users\pgrah\OneDrive\Desktop\ConsoleApp.HelloWorld\ConsoleApp.Additional\obj\Debug\net9.0\ConsoleApp.Additional.AssemblyInfo.cs
+C:\Users\pgrah\OneDrive\Desktop\ConsoleApp.HelloWorld\ConsoleApp.Additional\obj\Debug\net9.0\ConsoleApp.Additional.csproj.CoreCompileInputs.cache
+C:\Users\pgrah\OneDrive\Desktop\ConsoleApp.HelloWorld\ConsoleApp.Additional\obj\Debug\net9.0\ConsoleApp.Additional.dll
+C:\Users\pgrah\OneDrive\Desktop\ConsoleApp.HelloWorld\ConsoleApp.Additional\obj\Debug\net9.0\refint\ConsoleApp.Additional.dll
+C:\Users\pgrah\OneDrive\Desktop\ConsoleApp.HelloWorld\ConsoleApp.Additional\obj\Debug\net9.0\ConsoleApp.Additional.pdb
+C:\Users\pgrah\OneDrive\Desktop\ConsoleApp.HelloWorld\ConsoleApp.Additional\obj\Debug\net9.0\ConsoleApp.Additional.genruntimeconfig.cache
+C:\Users\pgrah\OneDrive\Desktop\ConsoleApp.HelloWorld\ConsoleApp.Additional\obj\Debug\net9.0\ref\ConsoleApp.Additional.dll
